@@ -41,11 +41,11 @@ Dashboard → Your Service → Environment → Add Environment Variable
 | Variable | Your Value |
 |----------|-----------|
 | `BOT_TOKEN` | BotFather se naya token |
-| `UPI_ID` | `8084866858@fam` |
+| `UPI_ID` | `m` |
 | `UPI_NAME` | `KeyShop Payments` |
-| `ADMIN_USER_IDS` | `8468583207` |
-| `API_URL` | `https://adminpanels.shop/api/reseller_v1.php` |
-| `FORCE_CHANNELS` | `@paid_pannel88` |
+| `ADMIN_USER_IDS` | `` |
+| `API_URL` | `https://` |
+| `FORCE_CHANNELS` | `@8` |
 
 ### Step 4: Get Your Render URL
 ```
