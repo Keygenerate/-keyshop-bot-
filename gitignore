@@ -1,6 +1,0 @@
-*.db
-*.log
-__pycache__/
-.env
-bot_debug.log
-keyshop_bot.db
