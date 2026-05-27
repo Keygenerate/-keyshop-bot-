@@ -1,3 +1,5 @@
 python-telegram-bot==21.0.1
 requests
 aiohttp
+qrcode[pil]
+Pillow
