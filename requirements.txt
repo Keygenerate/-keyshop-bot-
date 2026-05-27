@@ -1,5 +1,5 @@
 python-telegram-bot==21.0.1
 qrcode[pil]==7.4.2
-Pillow==10.3.0
+Pillow
 aiohttp==3.9.5
 requests==2.31.0
