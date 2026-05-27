@@ -3,4 +3,3 @@ qrcode[pil]==7.4.2
 Pillow
 aiohttp==3.9.5
 requests==2.31.0
-APScheduler==3.10.4
