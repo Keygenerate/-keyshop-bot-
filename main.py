@@ -935,7 +935,7 @@ async def process_utr(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"🆔 Order: `{order_id}`\n"
         f"📝 UTR: `{utr}`\n"
         f"🔒 Security: Passed\n\n"
-        f"⏳ Admin will verify and deliver key soon.",
+        f"⏳ sirf maximum 1min wait karo payment verified key delivered automatically 😊.",
         parse_mode=ParseMode.MARKDOWN,
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('🏠 Main Menu', callback_data='back')]])
     )
