@@ -60,7 +60,7 @@ MASTER_KEY = os.environ.get("MASTER_KEY", "a7f3e8b2c9d1f4a6b8c2d5e9f1a3b6c9")
 DURATION_MAP = {
     "1 Day": "1 DaYS", "3 Days": "3 DaYS", "7 Days": "7 DaYS",
     "10 Days": "10 DaYS", "14 Days": "14 DaYS", "15 Days": "15 DaYS",
-    "20 Days": "20 DaYS", "30 Days": "30 DaYS"
+    "20 Days": "20 DaYS", "30 Days": "30 DaYS", "28 Days": "28 DaYS"
 }
 AVAILABLE_DURATIONS = list(DURATION_MAP.keys())
 
